@@ -1,14 +1,32 @@
 {
   "files": {
-    "main.css": "/samsfilmframes/static/css/main.f855e6bc.css",
-    "main.js": "/samsfilmframes/static/js/main.859da5a7.js",
+    "main.css": "/samsfilmframes/static/css/main.0404180b.css",
+    "main.js": "/samsfilmframes/static/js/main.379fe1df.js",
+    "static/media/isovideo.png": "/samsfilmframes/static/media/isovideo.267d3587d2d1f4d27193.png",
+    "static/media/windingfilm.jpg": "/samsfilmframes/static/media/windingfilm.44a22a62699f907ee851.jpg",
+    "static/media/winddial.jpg": "/samsfilmframes/static/media/winddial.594bfe6dc6bf28313e63.jpg",
+    "static/media/developingvideo.png": "/samsfilmframes/static/media/developingvideo.b13c9f902e60a455bf33.png",
+    "static/media/filmstockvideo.png": "/samsfilmframes/static/media/filmstockvideo.5f39b27537d86b078cbf.png",
+    "static/media/unlockingfilm.jpg": "/samsfilmframes/static/media/unlockingfilm.6b704b043198ff91a697.jpg",
+    "static/media/beginnersguidevideo.png": "/samsfilmframes/static/media/beginnersguidevideo.4dd10d404a97723ce831.png",
+    "static/media/InsertFilm.jpg": "/samsfilmframes/static/media/InsertFilm.b240bba497398d542497.jpg",
+    "static/media/takingaphoto.jpg": "/samsfilmframes/static/media/takingaphoto.74377b116ca11f60ab2d.jpg",
+    "static/media/ISO.jpg": "/samsfilmframes/static/media/ISO.e67d78cd47f8c10ffc23.jpg",
+    "static/media/aperture.jpg": "/samsfilmframes/static/media/aperture.f84e5a6a3b04136d04aa.jpg",
+    "static/media/liftdial.jpg": "/samsfilmframes/static/media/liftdial.7cf50a418e7ccde4da2b.jpg",
+    "static/media/filmcartridge.jpg": "/samsfilmframes/static/media/filmcartridge.eec2ee2a6b907063281f.jpg",
+    "static/media/AE1.jpg": "/samsfilmframes/static/media/AE1.5d2292d8d8f8e4ded63a.jpg",
+    "static/media/opencamera.jpg": "/samsfilmframes/static/media/opencamera.bd4eafd0b399f2663168.jpg",
+    "static/media/sensor.jpg": "/samsfilmframes/static/media/sensor.5bbc42575ed36d10ce00.jpg",
+    "static/media/homepage.jpg": "/samsfilmframes/static/media/homepage.fee2770701d01c975dfd.jpg",
+    "static/media/photologo.png": "/samsfilmframes/static/media/photologo.0b6bb5c9aa7ae7a73a0f.png",
     "static/media/logo.svg": "/samsfilmframes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/samsfilmframes/index.html",
-    "main.f855e6bc.css.map": "/samsfilmframes/static/css/main.f855e6bc.css.map",
-    "main.859da5a7.js.map": "/samsfilmframes/static/js/main.859da5a7.js.map"
+    "main.0404180b.css.map": "/samsfilmframes/static/css/main.0404180b.css.map",
+    "main.379fe1df.js.map": "/samsfilmframes/static/js/main.379fe1df.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.859da5a7.js"
+    "static/css/main.0404180b.css",
+    "static/js/main.379fe1df.js"
   ]
 }

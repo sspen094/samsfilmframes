@@ -56,7 +56,7 @@ const images = [
     { id: 54, colour: 'Colour', location: 'St Lawrence River', theme: 'People', url: "images/websiteimage54.jpg", title: "\"Sunhat\"" },
     { id: 55, colour: 'Colour', location: 'St Lawrence River', theme: 'Architecture', url: "images/websiteimage55.jpg", title: "Ship Beneath Bridge" },
     { id: 56, colour: 'Colour', location: 'Drumheller', theme: 'Landscape', url: "images/websiteimage56.jpg", title: "Layered Canyon" },
-    { id: 57, colour: 'Colour', location: 'Drumheller', theme: 'People', url: "images/websiteimag57.jpg", title: "Stylish Photographer" },
+    { id: 57, colour: 'Colour', location: 'Drumheller', theme: 'People', url: "images/websiteimage57.jpg", title: "Stylish Photographer" },
     { id: 58, colour: 'Colour', location: 'Drumheller', theme: 'People', url: "images/websiteimage58.jpg", title: "Canyon Overseer" },
     { id: 59, colour: 'Colour', location: 'Drumheller', theme: 'People', url: "images/websiteimage59.jpg", title: "\"Is It Behind Me?\"" },
     { id: 60, colour: 'Colour', location: 'Drumheller', theme: 'Architecture', url: "images/websiteimage60.jpg", title: "T-Rex Scull" },

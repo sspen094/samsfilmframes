@@ -2,9 +2,9 @@ import Home from './Home';
 import logo from './logo.svg';
 import Navbar from "./Navbar"
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom/cjs/react-router-dom.min';
-import Process from './Process';
 import Gallery from './Gallery';
 import DetailedImage from './DetailedImage';
+import Process from './process';
 
 function App() {
   return (

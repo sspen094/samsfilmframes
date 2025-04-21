@@ -4,7 +4,6 @@ import Navbar from "./Navbar"
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom/cjs/react-router-dom.min';
 import Gallery from './Gallery';
 import DetailedImage from './DetailedImage';
-import Process from './process';
 
 function App() {
   return (
@@ -15,9 +14,6 @@ function App() {
           <Switch>
             <Route exact path="/">
               <Home />
-            </Route>
-            <Route path="/myprocess">
-              <Process />
             </Route>
             <Route exact path="/gallery">
               <Gallery />

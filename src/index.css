@@ -105,9 +105,12 @@
 }
 
 .instruction img {
-  width: 100%;
+  width: 75%;
   border: 1px solid #ccc;
   padding: 5px;
+  display: flex;
+  justify-content: center;
+    align-items: center;
 }
 
 .image-gallery {

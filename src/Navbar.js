@@ -13,9 +13,7 @@ const Navbar = () => {
             <h1>{t('title')}</h1>
             <div className="links">
                 <Link to="/">{t('navbar-home')}</Link>
-                <Link to="/myprocess">{t('navbar-process')}</Link>
                 <Link to="/gallery">{t('navbar-gallery')}</Link>
-                <LanguageSwitcher />
             </div>
         </nav>
     );

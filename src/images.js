@@ -159,6 +159,20 @@ const images = [
     { id: 157, colour: 'B/W', location: 'Ottawa', theme: 'Animals', url: "images/websiteimage157.jpg", title: "Cascade" },
     { id: 158, colour: 'B/W', location: 'Ottawa', theme: 'Animals', url: "images/websiteimage158.jpg", title: "Swimming Upstream" },
     { id: 159, colour: 'B/W', location: 'Ottawa', theme: 'Architecture', url: "images/websiteimage159.jpg", title: "Low Road" },
+    { id: 160, colour: 'Colour', location: 'Johnstown', theme: 'Landscape', url: "images/websiteimage160.jpg", title: "Frozen Stream" },
+    { id: 161, colour: 'Colour', location: 'Johnstown', theme: 'Landscape', url: "images/websiteimage161.jpg", title: "Moss Ball" },
+    { id: 162, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage162.jpg", title: "Locked" },
+    { id: 163, colour: 'Colour', location: 'Ottawa', theme: 'Architecture', url: "images/websiteimage163.jpg", title: "Evening Streets" },
+    { id: 164, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage164.jpg", title: "Lone Wanderer" },
+    { id: 165, colour: 'Colour', location: 'Ottawa', theme: 'Architecture', url: "images/websiteimage165.jpg", title: "Hotel Stay" },
+    { id: 166, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage166.jpg", title: "Pink Castle" },
+    { id: 167, colour: 'Colour', location: 'Ottawa', theme: 'Architecture', url: "images/websiteimage167.jpg", title: "Golden Arches" },
+    { id: 168, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage168.jpg", title: "Canal Thawing" },
+    { id: 169, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage169.jpg", title: "Roaring Falls" },
+    { id: 170, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage170.jpg", title: "Quiet Overlook" },
+    { id: 171, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage171.jpg", title: "Stick On a Rock" },
+    { id: 172, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage172.jpg", title: "Dont Slip" },
+    { id: 173, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage173.jpg", title: "Sun Overhead" }
 
 
     

@@ -98,6 +98,14 @@ const FilterBar = ({ filters, setFilters }) => {
           />
           Ottawa
         </label>
+        <label>
+          <input
+            type="checkbox"
+            //checked={filters.location.includes('Charleston Lake')}
+            onChange={() => handleChange('location', 'Italy')}
+          />
+          Italy
+        </label>
       </div>
       <div className="filter-category">
         <div className="filter-header">

@@ -172,10 +172,30 @@ const images = [
     { id: 170, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage170.jpg", title: "Quiet Overlook" },
     { id: 171, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage171.jpg", title: "Stick On a Rock" },
     { id: 172, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage172.jpg", title: "Dont Slip" },
-    { id: 173, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage173.jpg", title: "Sun Overhead" }
-
-
-    
+    { id: 173, colour: 'Colour', location: 'Ottawa', theme: 'Landscape', url: "images/websiteimage173.jpg", title: "Sun Overhead" },
+    { id: 174, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage174.jpg", title: "Coastal Cliffs" },
+    { id: 175, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage175.jpg", title: "Amalfi Coast" },
+    { id: 176, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage176.jpg", title: "Stacked Houses" },
+    { id: 177, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage177.jpg", title: "Cliffside Town" },
+    { id: 178, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage178.jpg", title: "Mediterrainian Port" },
+    { id: 179, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage179.jpg", title: "Above Napoli" },
+    { id: 180, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage180.jpg", title: "Granite Columnns" },
+    { id: 181, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage181.jpg", title: "Narrow Street" },
+    { id: 182, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage182.jpg", title: "Little Bridge" },
+    { id: 183, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage183.jpg", title: "Island Town" },
+    { id: 184, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage184.jpg", title: "Still Standing" },
+    { id: 185, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage185.jpg", title: "Road to St Peter's" },
+    { id: 186, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage186.jpg", title: "The Pit" },
+    { id: 187, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage187.jpg", title: "Tall Statues" },
+    { id: 188, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage188.jpg", title: "Trevi" },
+    { id: 189, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage189.jpg", title: "Sunset over Rome" },
+    { id: 190, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage190.jpg", title: "DOME" },
+    { id: 191, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage191.jpg", title: "Medival and Ancient" },
+    { id: 192, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage192.jpg", title: "Plazza" },
+    { id: 193, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage193.jpg", title: "Empty Streets" },
+    { id: 194, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage194.jpg", title: "Temple of Zues" },
+    { id: 195, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage195.jpg", title: "On the Rim" },
+    { id: 196, colour: 'Colour', location: 'Italy', theme: 'Landscape', url: "images/websiteimage196.jpg", title: "Steps" }   
 
     
   ];

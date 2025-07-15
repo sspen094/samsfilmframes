@@ -33,7 +33,7 @@ const Gallery = () => {
       <FilterBar filters={filters} setFilters={setFilters}></FilterBar>
       <div className="image-gallery">
         {filteredImages.map(image => (
-          <Link to={"/gallery/" + image.id} className="gallery-link">
+          <Link to={"/samsfilmframes/gallery/" + image.id} className="gallery-link">
             <img id={"gallery-image-" + image.id} key={image.id} src={process.env.PUBLIC_URL + "/" + image.url} alt={image.category}/>
             <Tooltip anchorId={"gallery-image-" + image.id} content={image.title} place="top-end"/>
           </Link>

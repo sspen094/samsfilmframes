@@ -16,7 +16,7 @@ const DetailedImage = () => {
 
     return ( 
         <div className="detailed-image">
-            <Link to="/gallery" className="back-btn">{t('back')}</Link>
+            <Link to="/samsfilmframes/gallery" className="back-btn">{t('back')}</Link>
             <h1>{img.title}</h1>
             <img src={process.env.PUBLIC_URL+ "/" + img.url} alt={img.title} />
             <div className="image-desc">

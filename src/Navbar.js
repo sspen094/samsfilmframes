@@ -12,8 +12,8 @@ const Navbar = () => {
             <img src={Logo} alt="Logo" />
             <h1>{t('title')}</h1>
             <div className="links">
-                <Link to="/">{t('navbar-home')}</Link>
-                <Link to="/gallery">{t('navbar-gallery')}</Link>
+                <Link to="/samsfilmframes/">{t('navbar-home')}</Link>
+                <Link to="/samsfilmframes/gallery">{t('navbar-gallery')}</Link>
             </div>
         </nav>
     );
